@@ -1,1 +1,7 @@
-# Task-1-Srilekha
+The Number Guessing Game is a console-based Java application designed to provide an engaging and interactive experience for users. In this project, the computer generates a random number within a specified range, and the user attempts to guess it. The program provides hints such as “too high” or “too low” until the correct number is guessed, making it fun and educational.
+This project demonstrates the use of loops, conditional statements, and random number generation in Java. It emphasizes user input handling, validation, and replay functionality, allowing players to enjoy multiple rounds.
+The application structure is simple, typically consisting of a single Main class where the logic is implemented. The design encourages beginners to understand how to break down problems into smaller steps and implement them using Java syntax.
+Key features include random number generation, user input through the console, hint system, and replay option. The program can be extended to include difficulty levels such as easy, medium, and hard, where the range of numbers changes accordingly.
+Learning outcomes from this project include mastering loops (while, for), conditional statements (if-else), and the use of the Scanner class for input. Students also gain confidence in debugging and testing their code.
+Future enhancements could involve tracking the number of attempts, maintaining a leaderboard, or integrating file handling to store scores. A graphical user interface (GUI) using Java Swing could make the game more visually appealing.
+Overall, the Number Guessing Game is an excellent beginner project that introduces core programming concepts while keeping the learning process enjoyable and interactive.
